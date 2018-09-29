@@ -1,5 +1,6 @@
 # Pewter - Send Personalized Ether
 ![GitHub](https://img.shields.io/badge/NTWoC-2018-blue.svg)
+
 Pewter is an open source project to send or gift ethers with personalized messages.
 ## NTWoC Project Details
 

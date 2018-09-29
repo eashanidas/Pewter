@@ -5,7 +5,7 @@ Pewter is an open source project to send ethers with personalized messages.
 ## NTWoC Project Details
 
 ### Abstract
-Pewter is a platform whcih allows you to add a personalized message or video when sending money(ethers) on the Ethereum Blockchain. 
+Pewter is a platform which allows you to add a personalized message or video when sending money(ethers) on the Ethereum Blockchain. 
 The main use case include attaching a gift card or a video message when gifting money to a loved one. The application will combine the user's message and money(ether) to form an ERC721 Non-Fungible Token and make it transferable . The project is intended to implement ['Paypal's gift money with designer cards'](https://venturebeat.com/2016/12/06/paypal-now-lets-you-send-designed-cards-when-gifting-money-this-holiday-season/) for the Ethereum Ecosystem. 
 
 #### What is an ERC721 Non-Fungible Token?

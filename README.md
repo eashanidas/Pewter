@@ -17,6 +17,7 @@ ERC721 is a token standard for the Ethereum Blockchain where each token is uniqu
 3) Front-End Developer: Should work on building the web-app for the project
 4) Integration: Should work on the Web UI interaction with the smart contract
 
+If you dont have the skills yet, but are willing to spend the winter learning stuff and implementing, feel free to apply.
 
 ### Ideas that can be implemented
 1) Allow the user to upload/record video and directly upload to IPFS. 

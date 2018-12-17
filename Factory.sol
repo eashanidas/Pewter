@@ -12,6 +12,4 @@ contract Factory {
     }
     
 }
-contract TransferRequest {
-    
-}
+

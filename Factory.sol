@@ -1,13 +1,14 @@
 pragma solidity ^0.5.1;
+import "./erc721.sol";
 
 contract Factory {
-    address[] TransferRequest;
-    function createTransferRequest (address _to,uint amount) public payable {
-        address newTransferRequest = new TransferRequest(_to, amount, msg.sender);
-        TransferRequest.push(newTransferRequest);
+    address[] erc721;
+    function createerc721 () public payable {
+        address newerc721 = new erc721();
+        erc721.push(newerc721);
     }
-    function getDeployedTransferRequest() public view returns(address[]){
-        return TransferRequest;
+    function getDeployederc721() public view returns(address[]){
+        return erc721;
     }
     
 }
